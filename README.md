@@ -4,20 +4,6 @@ A Python project to scrape apartment listings from [House.kg](https://www.house.
 
 ---
 
-## Table of Contents
-
-1. [Features](#features)  
-2. [Prerequisites](#prerequisites)  
-3. [Installation](#installation)  
-4. [Usage](#usage)  
-5. [Notebook Structure](#notebook-structure)  
-6. [Configuration](#configuration)  
-7. [Output](#output)  
-8. [Author](#author)  
-9. [License](#license)  
-
----
-
 ## Features
 
 - Fetch multiple pages (default: first 5 pages) of apartment listings  
